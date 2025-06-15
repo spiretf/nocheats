@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/spire/nocheats
+
 # NoCheats
 
 Stop people from enabling sv_cheats
